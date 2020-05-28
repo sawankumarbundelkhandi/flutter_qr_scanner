@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'flutter_qr_scanner'
   s.version          = '0.0.1'
-  s.summary          = 'A Plugin for reading/scanning QR & Bar codes using Google's Mobile Vision API'
+  s.summary          = 'A Plugin for reading/scanning QR & Bar codes using Google Mobile Vision API'
   s.description      = <<-DESC
 A Plugin for reading/scanning QR & Bar codes using Google's Mobile Vision API.
                        DESC
